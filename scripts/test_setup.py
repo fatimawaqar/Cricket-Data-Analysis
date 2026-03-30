@@ -1,0 +1,2 @@
+print("Project setup complete 🎉")
+
